@@ -92,3 +92,47 @@ img {
 .top .menu .menu_opt {
   display: inline-block;
 }
+
+/* banner */
+
+.banner {
+  width: 100%;
+}
+
+.banner .fullpage {
+  width: 100%;
+  overflow: hidden;
+}
+
+.banner .carousel li {
+  float: left;
+}
+
+.banner ul li a img {
+  display: block;
+  width: 100%;
+}
+
+/* main */
+
+/* hot */
+
+.main {
+  text-align: center;
+}
+
+.main .sec{
+  margin:30px 0 0 0;
+}
+
+
+.main .hot .title {
+  font-size: 25px;
+  color: #FF0007;
+}
+
+.main .hot .subtitle {
+  font-size: 14px;
+  color: #999;
+  line-height: 30px;
+}
